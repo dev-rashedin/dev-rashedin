@@ -34,8 +34,9 @@ I'm always looking to improve and expand my skills. Currently, I'm diving deeper
 
 Here are some of the projects I've been working on:
 
-- **[Craft Canvas](https://github.com/rashedin-islam/craft-canvas)**: An art and craft website featuring a collection of paintings and drawings.
-- **[Relux.com](https://github.com/rashedin-islam/relux)**: A luxury real estate platform showcasing exclusive properties.
+- **[Craft Canvas - Client Side](https://github.com/Rashedin-063/A10-Craft-Canvas-Client)**: An art and craft website featuring a collection of paintings and drawings.
+- **[Craft Canvas - Server Side](https://github.com/Rashedin-063/A10-Craft-Canvas-Server)**: An art and craft website featuring a collection of paintings and drawings.
+- **[Relux.com](https://github.com/Rashedin-063/RealState-Assignment-A9)**: A luxury real estate platform showcasing exclusive properties.
 
 Check out my repositories for more projects and code samples!
 
