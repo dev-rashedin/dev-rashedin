@@ -34,9 +34,10 @@ I'm always looking to improve and expand my skills. Currently, I'm diving deeper
 
 Here are some of the projects I've been working on:
 
-- **[Craft Canvas - Client Side](https://github.com/Rashedin-063/A10-Craft-Canvas-Client)**: An art and craft website featuring a collection of paintings and drawings.
-- **[Craft Canvas - Server Side](https://github.com/Rashedin-063/A10-Craft-Canvas-Server)**: An art and craft website featuring a collection of paintings and drawings.
-- **[Relux.com](https://github.com/Rashedin-063/RealState-Assignment-A9)**: A luxury real estate platform showcasing exclusive properties.
+
+- **[Tech Insights](https://tech-insights-d2159.web.app)**: A MERN Stack tech related news paper  website including admin dashboard.
+- **[ByteBlog](https://byteblog-da679.web.app)**: A MERN Stack blog website featurng latest technology specially web development.
+- **[Craft Canvas](https://a10-assignment-project.web.app)**: An art and craft website featuring a collection of paintings and drawings.
 
 Check out my repositories for more projects and code samples!
 
