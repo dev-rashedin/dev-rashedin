@@ -46,20 +46,12 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 ### 🤝 How to Reach Me
 
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashedin-islam-web-developer)  
-
-[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/github.png?raw=true' alt='github' height='40'>](https://github.com/Rashedin-063)  
-[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/devto.png?raw=true' alt='dev.to' height='40'>](https://dev.to/rashedin063)  
-[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashedin-islam-web-developer/)  
-[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100077363720344)  
-[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/gmail.png?raw=true' alt='gmail' height='40'>](mailto:rashedinislam.06@gmail.com)  
+- **Email**: [rashedinislam.06@gmail.com](mailto:rashedinislam.06@gmail.com)
+- **LinkedIn**: [linkedin.com/in/rashedin-islam](https://www.linkedin.com/in/rashedin-islam-web-developer)
+ 
 
 
-
-
-
-
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; margin-top: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&theme=merko&count_private=true" alt="GitHub stats" style="width: 420px;">
     <a href="https://git.io/streak-stats" style="margin-left: 10px;">
         <img src="https://streak-stats.demolab.com?user=Rashedin-063&theme=merko&exclude_days=Fri%2CSat&card_height=207" alt="GitHub Streak" style="width: 420px;">
