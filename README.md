@@ -1,7 +1,8 @@
+![I am a passionate MERN Stack developer](https://i.ibb.co/8mKb1Qm/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
+
+
 ### Hi there 👋, my name is Rashedin Islam
 #### I am a passionate MERN Stack developer
-
-![I am a passionate MERN Stack developer](https://i.ibb.co/8mKb1Qm/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
 
 
 As a junior web developer, I focus on building responsive, scalable web applications that deliver an exceptional user experience. I love problem-solving and enjoy debugging to ensure smooth functionality. I follow common coding conventions to write clean, maintainable code that enhances collaboration and long-term project success. I bring a balance of design sensibility and technical expertise, ensuring every project is built for both performance and visual appeal.
@@ -47,10 +48,10 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='28'>](https://github.com/Rashedin-063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/rashedin063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rashedin-islam-web-developer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='28'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100077363720344)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='28'>](mailto:rashedinislam.06@gmail.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&theme=tokyonight&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&theme=tokyonight&count_private=true)  [![GitHub Streak](https://streak-stats.demolab.com?user=Rashedin-063&theme=yeblu)](https://git.io/streak-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/Rashedin-063)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rashedin-063&theme=yeblu)](https://git.io/streak-stats)
+
 
 
