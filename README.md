@@ -1,7 +1,7 @@
-![I am a passionate MERN Stack developer](https://i.ibb.co.com/8mKb1Qm/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
-
 ### Hi there 👋, my name is Rashedin Islam
 #### I am a passionate MERN Stack developer
+
+![I am a passionate MERN Stack developer](https://i.ibb.co.com/8mKb1Qm/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
 
 As a junior web developer, I focus on building responsive, scalable web applications that deliver an exceptional user experience. I love problem-solving and enjoy debugging to ensure smooth functionality. I follow common coding conventions to write clean, maintainable code that enhances collaboration and long-term project success. I bring a balance of design sensibility and technical expertise, ensuring every project is built for both performance and visual appeal.
 
@@ -50,5 +50,5 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 ![GitHub metrics](https://metrics.lecoq.io/Rashedin-063)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=yeblu)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?Rashedin-063=&theme=yeblu)](https://git.io/streak-stats)
 
