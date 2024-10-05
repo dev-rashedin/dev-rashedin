@@ -48,9 +48,9 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='28'>](https://github.com/Rashedin-063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/rashedin063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rashedin-islam-web-developer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='28'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100077363720344)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='28'>](mailto:rashedinislam.06@gmail.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&theme=tokyonight&count_private=true)  [![GitHub Streak](https://streak-stats.demolab.com?user=Rashedin-063&theme=yeblu)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&theme=merko&count_private=true)  [![GitHub Streak](https://streak-stats.demolab.com?user=Rashedin-063&theme=yeblu)](https://git.io/streak-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Rashedin-063)  
+![Metrics](https://metrics.lecoq.io/Rashedin-063?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka&config.display=large)
 
 
 
