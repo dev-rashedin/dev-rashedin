@@ -46,23 +46,12 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 ### 🤝 How to Reach Me
 
-<p align="center">
-  <a href="https://github.com/Rashedin-063">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://dev.to/rashedin063">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/dev.png" alt="Dev.to" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/rashedin-islam-web-developer/">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100077363720344">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/facebook.png" alt="Facebook" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="mailto:rashedinislam.06@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Gmail" height="40" style="margin: 0 10px;">
-  </a>
-</p>
+[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/github.png?raw=true' alt='github' height='40'>](https://github.com/Rashedin-063)  
+[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/devto.png?raw=true' alt='dev.to' height='40'>](https://dev.to/rashedin063)  
+[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashedin-islam-web-developer/)  
+[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100077363720344)  
+[<img src='https://github.com/Rashedin-063/Rashedin-063/blob/main/img/gmail.png?raw=true' alt='gmail' height='40'>](mailto:rashedinislam.06@gmail.com)  
+
 
 
 
