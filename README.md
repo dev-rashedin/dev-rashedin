@@ -50,5 +50,5 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 ![GitHub metrics](https://metrics.lecoq.io/Rashedin-063)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rashedin-063)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=yeblu)](https://git.io/streak-stats) 
 
