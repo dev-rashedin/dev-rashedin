@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rashedin Islam
 
-![Banner Image](https://drive.google.com/file/d/1pi2h4fbbbq28I-f9LY-bnCGwud8wvtlS/view?usp=drive_link)
+![Banner Image](https://i.ibb.co.com/8mKb1Qm/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
 
 ### 💻 Junior MERN Stack Developer | Crafting Scalable, User-Centric Web Solutions with an Eye for Aesthetic Design
 
