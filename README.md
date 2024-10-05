@@ -48,21 +48,22 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 <p align="center">
   <a href="https://github.com/Rashedin-063">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://dev.to/rashedin063">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="40" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/dev.png" alt="Dev.to" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://www.linkedin.com/in/rashedin-islam-web-developer/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100077363720344">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/facebook.png" alt="Facebook" height="40" style="margin: 0 10px;">
   </a>
   <a href="mailto:rashedinislam.06@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Gmail" height="40" style="margin: 0 10px;">
   </a>
 </p>
+
 
 
 
