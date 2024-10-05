@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm Rashedin Islam
 
-### 💻 Junior MERN Stack Developer | Passionate about Web Development
+![Banner Image](https://drive.google.com/file/d/1pi2h4fbbbq28I-f9LY-bnCGwud8wvtlS/view?usp=drive_link)
+
+### 💻 Junior MERN Stack Developer | Crafting Scalable, User-Centric Web Solutions with an Eye for Aesthetic Design
+
+
 
 Welcome to my GitHub profile! I'm Rashedin Islam, a junior MERN stack developer with a keen interest in building dynamic and responsive web applications. I love turning ideas into reality using code and am constantly learning new technologies to enhance my skill set.
 
