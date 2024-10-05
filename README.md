@@ -42,12 +42,11 @@ Check out my repositories for more projects and code samples!
 
 I'm open to collaborating on exciting projects, especially those related to web development. If you have an idea or need help with a project, feel free to reach out!
 
-### 📫 How to Reach Me
-
+### 🤝 How to Reach Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='28'>](https://github.com/Rashedin-063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/rashedin063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rashedin-islam-web-developer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='28'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100077363720344)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='28'>](mailto:rashedinislam.06@gmail.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&theme=tokyonight&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Rashedin-063)  
 
