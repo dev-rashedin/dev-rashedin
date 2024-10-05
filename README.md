@@ -46,23 +46,23 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 ### 🤝 How to Reach Me
 
-<div style="background-color: white; display: flex; justify-content: center; margin-bottom: 20px;">
-  <a href="https://github.com/Rashedin-063" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="filter: invert(0%);">
+<p align="center">
+  <a href="https://github.com/Rashedin-063">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="margin: 0 10px;">
   </a>
-  <a href="https://dev.to/rashedin063" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" height="40" style="filter: invert(0%);">
+  <a href="https://dev.to/rashedin063">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="40" style="margin: 0 10px;">
   </a>
-  <a href="https://www.linkedin.com/in/rashedin-islam-web-developer/" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="filter: invert(0%);">
+  <a href="https://www.linkedin.com/in/rashedin-islam-web-developer/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin: 0 10px;">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100077363720344" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="filter: invert(0%);">
+  <a href="https://www.facebook.com/profile.php?id=100077363720344">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" style="margin: 0 10px;">
   </a>
-  <a href="mailto:rashedinislam.06@gmail.com" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40" style="filter: invert(0%);">
+  <a href="mailto:rashedinislam.06@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" style="margin: 0 10px;">
   </a>
-</div>
+</p>
 
 
 
