@@ -4,9 +4,9 @@
 
 ### 💻 Junior MERN Stack Developer | Crafting Scalable, User-Centric Web Solutions with an Eye for Aesthetic Design
 
+As a Junior MERN Stack Developer, I focus on building responsive, scalable web applications that deliver an exceptional user experience. I love problem-solving and enjoy debugging to ensure smooth functionality. I follow common coding conventions to write clean, maintainable code that enhances collaboration and long-term project success. I bring a balance of design sensibility and technical expertise, ensuring every project is built for both performance and visual appeal. 
 
-
-Welcome to my GitHub profile! I'm Rashedin Islam, a junior MERN stack developer with a keen interest in building dynamic and responsive web applications. I love turning ideas into reality using code and am constantly learning new technologies to enhance my skill set.
+I’m a strong team player who thrives in collaborative environments, and I actively use Jira for project management to stay organized and ensure timely delivery. I'm also passionate about open-source contribution, constantly looking for ways to give back to the developer community.
 
 ### 🔧 Tech Stack
 
@@ -21,10 +21,7 @@ Welcome to my GitHub profile! I'm Rashedin Islam, a junior MERN stack developer 
   - Git & GitHub
   - Vercel
   - Firebase
-- **Other:**
-  - RESTful APIs
-  - JWT Authentication
-  - Axios Interceptors
+
 
 ### 🌱 What I'm Currently Learning
 
