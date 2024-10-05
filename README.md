@@ -46,24 +46,24 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 ### 🤝 How to Reach Me
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <div style="background-color: white; display: flex; justify-content: center; margin-bottom: 20px;">
   <a href="https://github.com/Rashedin-063" style="margin: 0 10px;">
-    <i class="fab fa-github" style="font-size: 40px; color: black;"></i>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="filter: invert(0%);">
   </a>
   <a href="https://dev.to/rashedin063" style="margin: 0 10px;">
-    <i class="fab fa-dev" style="font-size: 40px; color: black;"></i>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" height="40" style="filter: invert(0%);">
   </a>
   <a href="https://www.linkedin.com/in/rashedin-islam-web-developer/" style="margin: 0 10px;">
-    <i class="fab fa-linkedin" style="font-size: 40px; color: black;"></i>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="filter: invert(0%);">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100077363720344" style="margin: 0 10px;">
-    <i class="fab fa-facebook" style="font-size: 40px; color: black;"></i>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="filter: invert(0%);">
   </a>
   <a href="mailto:rashedinislam.06@gmail.com" style="margin: 0 10px;">
-    <i class="fas fa-envelope" style="font-size: 40px; color: black;"></i>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40" style="filter: invert(0%);">
   </a>
 </div>
+
 
 
 
