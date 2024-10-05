@@ -1,10 +1,9 @@
-# Hi there! 👋 I'm Rashedin Islam
+![I am a passionate MERN Stack developer](https://i.ibb.co.com/8mKb1Qm/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
 
-![Banner Image](https://i.ibb.co.com/8mKb1Qm/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
+### Hi there 👋, my name is Rashedin Islam
+#### I am a passionate MERN Stack developer
 
-### 💻 Junior MERN Stack Developer | Crafting Scalable, User-Centric Web Solutions with an Eye for Aesthetic Design
-
-As a Junior MERN Stack Developer, I focus on building responsive, scalable web applications that deliver an exceptional user experience. I love problem-solving and enjoy debugging to ensure smooth functionality. I follow common coding conventions to write clean, maintainable code that enhances collaboration and long-term project success. I bring a balance of design sensibility and technical expertise, ensuring every project is built for both performance and visual appeal. 
+As a junior web developer, I focus on building responsive, scalable web applications that deliver an exceptional user experience. I love problem-solving and enjoy debugging to ensure smooth functionality. I follow common coding conventions to write clean, maintainable code that enhances collaboration and long-term project success. I bring a balance of design sensibility and technical expertise, ensuring every project is built for both performance and visual appeal.
 
 I’m a strong team player who thrives in collaborative environments, and I actively use Jira for project management to stay organized and ensure timely delivery. I'm also passionate about open-source contribution, constantly looking for ways to give back to the developer community.
 
@@ -22,10 +21,7 @@ I’m a strong team player who thrives in collaborative environments, and I acti
   - Vercel
   - Firebase
 
-
-### 🌱 What I'm Currently Learning
-
-I'm always looking to improve and expand my skills. Currently, I'm diving deeper into:
+### - 🔭  I'm always looking to improve and expand my skills. Currently, I'm diving deeper into:
 
 - Advanced React patterns and hooks
 - Server-side rendering (SSR) with Next.js
@@ -48,8 +44,12 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 ### 📫 How to Reach Me
 
-- **Email**: [rashedinislam.06@gmail.com](mailto:rashedinislam.06@gmail.com)
-- **LinkedIn**: [linkedin.com/in/rashedin-islam](https://www.linkedin.com/in/rashedin-islam-76522430a)
 
-Thanks for stopping by! Let's build something amazing together!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='28'>](https://github.com/Rashedin-063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/rashedin063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rashedin-islam-web-developer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='28'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100077363720344)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='28'>](mailto:rashedinislam.06@gmail.com)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Rashedin-063)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rashedin-063)  
 
