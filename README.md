@@ -62,7 +62,7 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 <!--header-->
 <table>
-  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
+  <tr><td colspan="2"><h1>Coding Habits</h1></td></tr>
   <tr>
     <td colspan="2" align="center">
       <details open><summary>Recent activity charts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
