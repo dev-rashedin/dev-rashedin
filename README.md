@@ -58,7 +58,6 @@ I'm open to collaborating on exciting projects, especially those related to web 
     </a>
 </div>
 
-![Metrics](https://metrics.lecoq.io/Rashedin-063?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka&config.display=large)
 
 <!--header-->
 <table>
@@ -244,40 +243,3 @@ Configure `config_timezone` (see [supported timezone](https://en.wikipedia.org/w
   with:
     config_timezone: Europe/Paris
 ```
-
-## ℹ️ Examples workflows
-
-<!--examples-->
-```yaml
-name: Mildly interesting facts
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.habits.facts.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_habits: yes
-  plugin_habits_facts: yes
-  plugin_habits_charts: no
-  config_timezone: Europe/Paris
-
-```
-```yaml
-name: Recent activity charts
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.habits.charts.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_habits: yes
-  plugin_habits_facts: no
-  plugin_habits_charts: yes
-  config_timezone: Europe/Paris
-
-```
-<!--/examples-->
-
-
-
-
-
-
