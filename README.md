@@ -54,7 +54,7 @@ I'm open to collaborating on exciting projects, especially those related to web 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px; margin-top: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Rashedin-063&show_icons=true&theme=merko&count_private=true" alt="GitHub stats" style="width: 420px;">
     <a href="https://git.io/streak-stats" style="margin-left: 10px;">
-        <img src="https://streak-stats.demolab.com?user=Rashedin-063&theme=merko&exclude_days=Fri%2CSat&card_height=207" alt="GitHub Streak" style="width: 420px;">
+        <img src="https://streak-stats.demolab.com?user=Rashedin-063&theme=merko&card_height=207" alt="GitHub Streak" style="width: 420px;">
     </a>
 </div>
 
