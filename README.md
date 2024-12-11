@@ -15,7 +15,7 @@ I’m a strong team player who thrives in collaborative environments, and I acti
   - HTML, CSS, Tailwind CSS
   - JavaScript, Tailwind CSS
   - React.js, Next.js
-  - 
+    
 - **Backend:**
   - Node.js, Express.js
   - MongoDB, Mongoose
