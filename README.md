@@ -12,16 +12,17 @@ I’m a strong team player who thrives in collaborative environments, and I acti
 ### 🔧 Tech Stack
 
 - **Frontend:**
-  - HTML, CSS, JavaScript
-  - React.js
-  - Tailwind CSS
+  - HTML, CSS, Tailwind CSS
+  - JavaScript, Tailwind CSS
+  - React.js, Next.js
+  - 
 - **Backend:**
   - Node.js, Express.js
-  - MongoDB
+  - MongoDB, Mongoose
+    
 - **Tools & Platforms:**
   - Git & GitHub
-  - Vercel
-  - Firebase
+  - Vercel & Firebase
 
 ### - 🔭  I'm always looking to improve and expand my skills. Currently, I'm diving deeper into:
 
