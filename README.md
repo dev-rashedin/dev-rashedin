@@ -1,4 +1,4 @@
-![I am a passionate MERN Stack developer](https://i.ibb.co/8mKb1Qm/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
+![I am a passionate MERN Stack developer](https://imgur.com/j2eCS5L.png)
 
 
 ### Hi there 👋, my name is Rashedin Islam
