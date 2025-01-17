@@ -1,4 +1,4 @@
-![I am a passionate MERN Stack developer](/xkWBT8N.png)
+![I am a passionate MERN Stack developer](https://imgur.com/xkWBT8N)
 
 
 ### Hi there 👋, my name is Rashedin Islam
