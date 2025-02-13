@@ -27,7 +27,7 @@ I’m a strong team player who thrives in collaborative environments, and I acti
 ### - 🔭  I'm always looking to improve and expand my skills. Currently, I'm diving deeper into:
 
 - Advanced React patterns and hooks
-- Server-side rendering (SSR) with Next.js
+- Advanced Node.js and Express.js patterns
 - TypeScript for better type safety in JavaScript projects
 
 ### 🚀 Projects
