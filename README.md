@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋, my name is Rashedin Islam
-### I am a passionate MERN Stack developer
+### I am a passionate Full Stack developer
 #### Feel free to explore my portfolio: [rashedin.dev](https://www.rashedin.dev)
 
 As a junior web developer, I focus on building responsive, scalable web applications that deliver an exceptional user experience. I love problem-solving and enjoy debugging to ensure smooth functionality. I follow common coding conventions to write clean, maintainable code that enhances collaboration and long-term project success. I bring a balance of design sensibility and technical expertise, ensuring every project is built for both performance and visual appeal.
@@ -25,7 +25,6 @@ I’m a strong team player who thrives in collaborative environments, and I acti
   - Vercel & Firebase
 
 ### - 🔭  I'm always looking to improve and expand my skills. Currently, I'm diving deeper into:
-
 - Advanced React patterns and hooks
 - Advanced Node.js and Express.js patterns
 - TypeScript for better type safety in JavaScript projects
