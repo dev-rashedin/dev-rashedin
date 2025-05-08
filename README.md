@@ -1,10 +1,10 @@
 ![I am a passionate MERN Stack developer](https://i.imgur.com/xkWBT8N.png)
 
 
-## Hi there 👋, my name is Rashedin Islam  
+// ## Hi there 👋, my name is Rashedin Islam  //
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <p>Hi there 👋, my name is Rashedin Islam</p>
+  <h1>Hi there 👋, my name is Rashedin Islam</h1>
   <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" />
 </div>
 
