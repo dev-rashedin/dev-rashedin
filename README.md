@@ -1,7 +1,13 @@
 ![I am a passionate MERN Stack developer](https://i.imgur.com/xkWBT8N.png)
 
 
-## Hi there 👋, my name is Rashedin Islam  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" /> </p>
+## Hi there 👋, my name is Rashedin Islam  
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <p>Hi there 👋, my name is Rashedin Islam</p>
+  <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" />
+</div>
+
 ### I am a passionate Full Stack developer
 #### Feel free to explore my portfolio: [rashedin.dev](https://www.rashedin.dev)
 
