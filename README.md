@@ -2,10 +2,11 @@
 
 
 
-<div style="display: flex; align-items: center; gap: 10px; width: 100%">
-  <h1>Hi there 👋, my name is Rashedin Islam</h1>
-  <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" />
-</div>
+<h1 align="left">
+  Hi there 👋, my name is Rashedin Islam
+  <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" style="vertical-align: middle; margin-left: 100px;" />
+</h1>
+
 
 ### I am a passionate Full Stack developer
 #### Feel free to explore my portfolio: [rashedin.dev](https://www.rashedin.dev)
