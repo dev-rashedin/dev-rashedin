@@ -1,7 +1,7 @@
 ![I am a passionate MERN Stack developer](https://i.imgur.com/xkWBT8N.png)
 
 
-## Hi there 👋, my name is Rashedin Islam
+## Hi there 👋, my name is Rashedin Islam  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" /> </p>
 ### I am a passionate Full Stack developer
 #### Feel free to explore my portfolio: [rashedin.dev](https://www.rashedin.dev)
 
@@ -9,7 +9,7 @@ As a junior web developer, I focus on building responsive, scalable web applicat
 
 I’m a strong team player who thrives in collaborative environments, and I actively use Jira for project management to stay organized and ensure timely delivery. I'm also passionate about open-source contribution, constantly looking for ways to give back to the developer community.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" /> </p>
+
 
 ### 🔧 Tech Stack
 
