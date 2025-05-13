@@ -4,7 +4,7 @@
 
 <h1 align="left">
   Hi there 👋, my name is Rashedin Islam
-  <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" style="vertical-align: middle; margin-left: 100px;" />
+<!--   <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" style="vertical-align: middle; margin-left: 100px;" /> -->
 </h1>
 
 
