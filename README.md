@@ -20,9 +20,9 @@ I’m a strong team player who thrives in collaborative environments, and I acti
 ### 🔧 Tech Stack
 
 - **Frontend:**
-  - HTML, CSS, Tailwind CSS
+  - HTML, CSS, Tailwind CSS, Material UI
   - JavaScript, TypeScript
-  - React.js, Next.js, Redux Toolkit
+  - React.js, Next.js, Redux Toolkit, Zustand
     
 - **Backend:**
   - Node.js, Express.js
