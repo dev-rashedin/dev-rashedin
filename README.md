@@ -55,7 +55,7 @@ I'm open to collaborating on exciting projects, especially those related to web 
 ### 🤝 How to Reach Me
 
 - **Email**: [rashedinislam.06@gmail.com](mailto:rashedinislam.06@gmail.com)
-<!-- - **LinkedIn**: [linkedin.com/in/dev-rashedin](https://www.linkedin.com/in/dev-rashedin)  -->
+- **LinkedIn**: [linkedin.com/in/dev-rashedin](https://www.linkedin.com/in/dev-rashedin)  
 
 
  
