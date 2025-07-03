@@ -48,6 +48,16 @@ Here are some of the projects I've been working on:
 
 Check out my repositories for more projects and code samples!
 
+### ✍️ I Love to Share What I Learn
+
+I enjoy documenting my learning journey, experiences, and technical insights through writing. Whether it's a deep dive into a concept or a quick tip I discovered, 
+I write to help others—and to reinforce my own understanding.
+
+📚 Read My Articles
+Hashnode: blog.rashedin.dev
+
+DEV.to: dev.to/dev-rashedin
+
 ### 🛠️ Open to Collaboration
 
 I'm open to collaborating on exciting projects, especially those related to web development. If you have an idea or need help with a project, feel free to reach out!
