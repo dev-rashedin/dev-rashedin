@@ -54,9 +54,10 @@ I enjoy documenting my learning journey, experiences, and technical insights thr
 I write to help others—and to reinforce my own understanding.
 
 📚 Read My Articles
-Hashnode: blog.rashedin.dev
 
-DEV.to: dev.to/dev-rashedin
+- Hashnode: [blog.rashedin.dev](https://blog.rashedin.dev/)
+
+- DEV.to: [dev.to/dev-rashedin](https://dev.to/dev-rashedin)
 
 ### 🛠️ Open to Collaboration
 
