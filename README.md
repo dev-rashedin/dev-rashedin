@@ -1,4 +1,4 @@
-![I am a passionate MERN Stack developer](https://imgur.com/a/8ykAz03.png)
+![I am a passionate MERN Stack developer](https://i.imgur.com/zZxTj26.png)
 
 
 
@@ -18,27 +18,28 @@ I thrive in collaborative teams, actively use tools like Jira, and embrace open-
 
 ### 🔧 Tech Stack
 
-- **Frontend:**
-  - HTML, CSS, Tailwind CSS, Material UI
-  - JavaScript, TypeScript
-  - React.js, Next.js, Redux Toolkit, Zustand
-    
-- **Backend:**
-  - Node.js, Express.js
-  - MongoDB, Mongoose, SQL
-  - Docker, Socket I/O, Nest.js
+**Frontend:**  
+ - HTML, CSS, Tailwind CSS, Material UI  
+ - JavaScript, TypeScript  
+ - React.js, Next.js, Redux Toolkit, Zustand
 
-    
-- **Tools & Platforms:**
-  - Unit Test with Jest
-  - Git, GitHub & GitLab
-  - Vercel, Firebase & Firestore
+**Backend:**  
+ - Node.js, Express.js  
+ - MongoDB, Mongoose, SQL  
+ - Docker, Socket.IO, Nest.js
 
+**Tools & Platforms:**  
+ - Unit Testing with Jest  
+ - Git, GitHub, GitLab  
+ - Vercel, Firebase, Firestore
 
-### - 🔭  I'm always looking to improve and expand my skills. Currently, I'm diving deeper into:
-- Docker
-- SQl & Nest.Js
-- Socket I/O in depth
+---
+
+🔭 I'm always looking to grow and improve. Currently exploring:
+
+ - Docker (advanced workflows)  
+ - SQL & Nest.js (architecture and design patterns)  
+ - Socket.IO (real-time apps in depth)
 
 ### 🚀 Projects
 
