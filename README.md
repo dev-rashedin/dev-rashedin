@@ -1,4 +1,4 @@
-![I am a passionate MERN Stack developer](https://i.imgur.com/xkWBT8N.png)
+![I am a passionate MERN Stack developer](https://imgur.com/a/8ykAz03.png)
 
 
 
@@ -11,10 +11,9 @@
 ### I am a passionate Full Stack developer
 #### Feel free to explore my portfolio: [rashedin.dev](https://www.rashedin.dev)
 
-As a junior web developer, I focus on building responsive, scalable web applications that deliver an exceptional user experience. I love problem-solving and enjoy debugging to ensure smooth functionality. I follow common coding conventions to write clean, maintainable code that enhances collaboration and long-term project success. I bring a balance of design sensibility and technical expertise, ensuring every project is built for both performance and visual appeal.
+🚀 Full-stack JavaScript developer focused on building scalable, responsive, and user-centric web apps. Passionate about debugging, optimization, and clean code.
 
-I’m a strong team player who thrives in collaborative environments, and I actively use Jira for project management to stay organized and ensure timely delivery. I'm also passionate about open-source contribution, constantly looking for ways to give back to the developer community.
-
+I thrive in collaborative teams, actively use tools like Jira, and embrace open-source. My workflow blends technical precision with strong UX sensibility — always aiming for performance, maintainability, and delight.
 
 
 ### 🔧 Tech Stack
@@ -26,16 +25,20 @@ I’m a strong team player who thrives in collaborative environments, and I acti
     
 - **Backend:**
   - Node.js, Express.js
-  - MongoDB, Mongoose
+  - MongoDB, Mongoose, SQL
+  - Docker, Socket I/O, Nest.js
+
     
 - **Tools & Platforms:**
-  - Git & GitHub
-  - Vercel & Firebase
+  - Unit Test with Jest
+  - Git, GitHub & GitLab
+  - Vercel, Firebase & Firestore
+
 
 ### - 🔭  I'm always looking to improve and expand my skills. Currently, I'm diving deeper into:
-- Advanced React patterns and hooks
-- Advanced Node.js and Express.js patterns
-- TypeScript for better type safety in JavaScript projects
+- Docker
+- SQl & Nest.Js
+- Socket I/O in depth
 
 ### 🚀 Projects
 
