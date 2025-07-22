@@ -1,4 +1,4 @@
-![I am a passionate MERN Stack developer](https://i.imgur.com/zZxTj26.png)
+![I am a Full Stack JavaScript Developer](https://i.imgur.com/a8KjbkV.png)
 
 
 
