@@ -7,6 +7,15 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" style="vertical-align: middle; margin-left: 100px;" /> -->
 </h1>
 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ### I am a passionate Full Stack developer
 #### Feel free to explore my portfolio: [rashedin.dev](https://www.rashedin.dev)
@@ -14,7 +23,6 @@
 🚀 Full-stack JavaScript developer focused on building scalable, responsive, and user-centric web apps. Passionate about debugging, optimization, and clean code.
 
 I thrive in collaborative teams, actively use tools like Jira, and embrace open-source. My workflow blends technical precision with strong UX sensibility — always aiming for performance, maintainability, and delight.
-
 
 ### 🔧 Tech Stack
 
