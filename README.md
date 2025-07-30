@@ -7,13 +7,14 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" style="vertical-align: middle; margin-left: 100px;" /> -->
 </h1>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&color=informational&logo=redux)
-![](https://img.shields.io/badge/Code-Zustand-informational?style=flat&color=informational&logo=zustand)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Core-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Core-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Frotend-Next.js-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Frontend-Redux-informational?style=flat&color=informational&logo=redux)
+![](https://img.shields.io/badge/Frontend-Zustand-informational?style=flat&color=informational&logo=zustand)
+![](https://img.shields.io/badge/Backend-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Backend-Express-informational?style=flat&color=informational&logo=express)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
