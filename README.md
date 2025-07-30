@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/Core-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Frotend-Next.js-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Frontend-Tailwindcss-informational?style=flat&color=informational&logo=tailwindcss)
+![](https://img.shields.io/badge/Frontend-MaterialUI-informational?style=flat&color=informational&logo=materialUI)
 ![](https://img.shields.io/badge/Frontend-Redux-informational?style=flat&color=informational&logo=redux)
 ![](https://img.shields.io/badge/Frontend-Zustand-informational?style=flat&color=informational&logo=zustand)
 ![](https://img.shields.io/badge/Backend-Node-informational?style=flat&color=informational&logo=node.js)
