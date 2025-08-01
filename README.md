@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 **Core Technologies:**  
-  HTML5, CSS3, JavaScript (ES6+), TypeScript, Node.js, MongoDB, MySQL, PostgreSQL
+- HTML5, CSS3, JavaScript (ES6+), TypeScript, Node.js, MongoDB, MySQL, PostgreSQL
 
 **Frontend Frameworks & Tools:**  
 - React.js, Next.js, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase, Appwrite
@@ -34,16 +34,31 @@
 
 ## 📌 Featured Projects
 
-- **http-status-toolkit**  
-  A lightweight, TypeScript-friendly alternative to http-status-codes with localization support.  
-  _npm: [http-status-toolkit](https://www.npmjs.com/package/http-status-toolkit)_
+### 🛠 npm Packages
 
-- **express-error-toolkit**  
-  A developer-focused Express.js error handler with color-coded logging and clean responses.  
-  _npm: [express-error-toolkit](https://www.npmjs.com/package/express-error-toolkit)_
+- **[http-status-toolkit](https://www.npmjs.com/package/http-status-toolkit)**  
+  A lightweight, TypeScript-friendly alternative to `http-status-codes`, with built-in localization support.
 
-- **TechInsights**  
-  A full-featured MERN stack app for posting and managing tech news, with role-based access and JWT auth.
+- **[express-error-toolkit](https://www.npmjs.com/package/express-error-toolkit)**  
+  Developer-friendly Express.js error handler with color-coded logs and clean JSON responses.
+
+---
+
+### 🌐 Web Applications
+
+- **[Tech Insights](https://tech-insights-d2159.web.app)** 
+  A full-featured MERN app for tech news publishing. Includes role-based access, admin panel, and JWT auth.  
+  _Stack: React, Express, MongoDB, Cloudinary, Redux Toolkit_  
+  _Live: [[techinsights.dev](https://tech-insights-d2159.web.app)](#) • Code: [GitHub](#)_
+
+- **ByteBlog**  
+  A blogging platform with full CRUD functionality and user-friendly forms.  
+  _Stack: React, Express, MongoDB, Formik_
+
+- **CraftCanvas**  
+  A creative artwork gallery featuring real-time search and filtering.  
+  _Stack: React, Tailwind CSS, Zustand_
+
 
 ---
 
