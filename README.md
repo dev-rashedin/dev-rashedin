@@ -46,28 +46,26 @@
 
 ### 🌐 Web Applications
 
-- **Suite Track** - A full stack hotel management website featuring real-time search and filtering.  
-  _Stack: Next.js, Tailwind CSS, Auth.js, Mongoose
-   _Links: • [Live URL](https://suite-track.vercel.app) • [GitHub Link](https://github.com/dev-rashedin/SuiteTrack-Project)
+- **Suite Track** — A full-stack hotel management website featuring real-time search and filtering.  
+  Tech Stack: Next.js, Tailwind CSS, Auth.js, Mongoose  
+  Links: • [Live URL](https://suite-track.vercel.app) • [GitHub Link](https://github.com/dev-rashedin/SuiteTrack-Project)
 
-- **Tech Insights** - A full-featured MERN app for tech news publishing. Includes role-based access, admin panel, and JWT auth.  
-  _Stack: React, Express, MongoDB, Imagegur, Redux Toolkit_  
-  _Links: • [Live URL](https://tech-insights-d2159.web.app) • [Client Side Code](https://github.com/dev-rashedin/techInsights-Project-Client) • [Server Side Code](https://github.com/dev-rashedin/techInsights-Project-Server)
+- **Tech Insights** — A full-featured MERN app for tech news publishing. Includes role-based access, admin panel, and JWT auth.  
+  Tech Stack: React, Express, MongoDB, Imagegur, Redux Toolkit  
+  Links: • [Live URL](https://tech-insights-d2159.web.app) • [Client Side Code](https://github.com/dev-rashedin/techInsights-Project-Client) • [Server Side Code](https://github.com/dev-rashedin/techInsights-Project-Server)
 
-- **ByteBlog** - A blogging platform with full CRUD functionality and user-friendly forms.  
-  _Stack: React, Express, MongoDB, Formik_
-  _Links: • [Live URL](https://byteblog-da679.web.app) • [Client Side Code](https://github.com/dev-rashedin/ByteBlog-Client-Side) • [Server Side Code](https://github.com/dev-rashedin/ByteBlog-Server-Side)
+- **ByteBlog** — A blogging platform with full CRUD functionality and user-friendly forms.  
+  Tech Stack: React, Express, MongoDB, Formik  
+  Links: • [Live URL](https://byteblog-da679.web.app) • [Client Side Code](https://github.com/dev-rashedin/ByteBlog-Client-Side) • [Server Side Code](https://github.com/dev-rashedin/ByteBlog-Server-Side)
 
-> Check out my repositories for more projects and code samples!
-
+> 💡 Check out my GitHub profile for more projects and code samples!
 
 ---
 
 
 ### ✍️ I Love to Share What I Learn
 
-> I enjoy documenting my learning journey, experiences, and technical insights through writing. Whether it's a deep dive into a concept or a quick tip I discovered, 
-I write to help others—and to reinforce my own understanding.
+#### I enjoy documenting my learning journey, experiences, and technical insights through writing. Whether it's a deep dive into a concept or a quick tip I discovered, I write to help others—and to reinforce my own understanding.
 
 📚 Read My Articles
 
