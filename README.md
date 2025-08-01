@@ -46,24 +46,23 @@
 
 ### 🌐 Web Applications
 
-- **Suite Track**  
-  A full stack hotel management website featuring real-time search and filtering.  
+- **Suite Track** - A full stack hotel management website featuring real-time search and filtering.  
   _Stack: Next.js, Tailwind CSS, Auth.js, Mongoose
+   _Links: • [Live URL](https://suite-track.vercel.app) • [GitHub Link](https://github.com/dev-rashedin/SuiteTrack-Project)
 
-- **[Tech Insights](https://tech-insights-d2159.web.app)** 
-  A full-featured MERN app for tech news publishing. Includes role-based access, admin panel, and JWT auth.  
+- **Tech Insights** - A full-featured MERN app for tech news publishing. Includes role-based access, admin panel, and JWT auth.  
   _Stack: React, Express, MongoDB, Imagegur, Redux Toolkit_  
   _Links: • [Live URL](https://tech-insights-d2159.web.app) • [Client Side Code](https://github.com/dev-rashedin/techInsights-Project-Client) • [Server Side Code](https://github.com/dev-rashedin/techInsights-Project-Server)
 
-- **ByteBlog**  
-  A blogging platform with full CRUD functionality and user-friendly forms.  
+- **ByteBlog** - A blogging platform with full CRUD functionality and user-friendly forms.  
   _Stack: React, Express, MongoDB, Formik_
+  _Links: • [Live URL](https://byteblog-da679.web.app) • [Client Side Code](https://github.com/dev-rashedin/ByteBlog-Client-Side) • [Server Side Code](https://github.com/dev-rashedin/ByteBlog-Server-Side)
 
+> Check out my repositories for more projects and code samples!
 
 
 ---
 
-Check out my repositories for more projects and code samples!
 
 ### ✍️ I Love to Share What I Learn
 
@@ -80,15 +79,16 @@ I write to help others—and to reinforce my own understanding.
 
 I'm open to collaborating on exciting projects, especially those related to web development. If you have an idea or need help with a project, feel free to reach out!
 
-## 📫 Let’s Connect
+<p>
+  📫 <strong>Let’s Connect:</strong>
+  <a href="https://www.rashedin.dev" target="_blank">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/dev-rashedin" target="_blank">💼 LinkedIn</a> |
+  <a href="mailto:rashedinislam.06@gmail.com">💌 Email</a>
+</p>
 
-- 🌐 [Portfolio](https://www.rashedin.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dev-rashedin)
-- 📓 [Dev.to](https://dev.to/dev-rashedin)
-- 💌 Email: rashedinislam.06@gmail.com
+---
 
-
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; margin-top: 15px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; margin-top: 150px;">
     <img src="https://github-readme-stats.vercel.app/api?username=dev-rashedin&show_icons=true&theme=merko&count_private=true" alt="GitHub stats" style="width: 420px;">
     <a href="https://git.io/streak-stats" style="margin-left: 10px;">
         <img src="https://streak-stats.demolab.com?user=dev-rashedin&theme=merko&card_height=207" alt="GitHub Streak" style="width: 420px;">
