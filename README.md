@@ -46,18 +46,19 @@
 
 ### 🌐 Web Applications
 
+- **Suite Track**  
+  A full stack hotel management website featuring real-time search and filtering.  
+  _Stack: Next.js, Tailwind CSS, Auth.js, Mongoose
+
 - **[Tech Insights](https://tech-insights-d2159.web.app)** 
   A full-featured MERN app for tech news publishing. Includes role-based access, admin panel, and JWT auth.  
-  _Stack: React, Express, MongoDB, Cloudinary, Redux Toolkit_  
-  _Live: [[techinsights.dev](https://tech-insights-d2159.web.app)](#) • Code: [GitHub](#)_
+  _Stack: React, Express, MongoDB, Imagegur, Redux Toolkit_  
+  _Links: • [Live URL](https://tech-insights-d2159.web.app) • [Client Side Code](https://github.com/dev-rashedin/techInsights-Project-Client) • [Server Side Code](https://github.com/dev-rashedin/techInsights-Project-Server)
 
 - **ByteBlog**  
   A blogging platform with full CRUD functionality and user-friendly forms.  
   _Stack: React, Express, MongoDB, Formik_
 
-- **CraftCanvas**  
-  A creative artwork gallery featuring real-time search and filtering.  
-  _Stack: React, Tailwind CSS, Zustand_
 
 
 ---
