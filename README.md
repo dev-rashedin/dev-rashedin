@@ -1,32 +1,20 @@
 ![I am a Full Stack JavaScript Developer](https://i.imgur.com/a8KjbkV.png)
 
+# 👋 Hi, I’m Rashedin Islam
 
+### **I am a Full-Stack JavaScript Developer** — I build clean, scalable, and user-focused web applications using the modern JavaScript ecosystem.
 
-<h1 align="left">
-  Hi there 👋, my name is Rashedin Islam
-<!--   <img src="https://komarev.com/ghpvc/?username=Rashedin-063&label=Profile%20views&color=0e75b6&style=flat" alt="Rashedin Islam" style="vertical-align: middle; margin-left: 100px;" /> -->
-</h1>
+---
 
-![](https://img.shields.io/badge/Core-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Core-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Frotend-Next.js-informational?style=flat&color=informational&logo=next.js)
-![](https://img.shields.io/badge/Frontend-Tailwindcss-informational?style=flat&color=informational&logo=tailwindcss)
-![](https://img.shields.io/badge/Frontend-MaterialUI-informational?style=flat&color=informational&logo=materialUI)
-![](https://img.shields.io/badge/Frontend-Redux-informational?style=flat&color=informational&logo=redux)
-![](https://img.shields.io/badge/Frontend-Zustand-informational?style=flat&color=informational&logo=zustand)
-![](https://img.shields.io/badge/Backend-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Backend-Express-informational?style=flat&color=informational&logo=express)
-![](https://img.shields.io/badge/Backend-MongoDB-informational?style=flat&color=informational&logo=mongoDB)
-![](https://img.shields.io/badge/Backend-Mongoose-informational?style=flat&color=informational&logo=mongoose)
-![](https://img.shields.io/badge/Backend-MySql-informational?style=flat&color=informational&logo=mySql)
-![](https://img.shields.io/badge/Backend-PostgreSql-informational?style=flat&color=informational&logo=postgreSql)
-![](https://img.shields.io/badge/Backend-Prisma-informational?style=flat&color=informational&logo=prisma)
-![](https://img.shields.io/badge/Backend-Drizzle-informational?style=flat&color=informational&logo=drizzle)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+## 🚀 About Me
+
+- 💼 I have nearly **1 year of hands-on experience** as a full-stack developer
+- 💡 Strong foundation in **MERN stack**, with expertise in both frontend and backend
+- 🔧 Experienced in **building, debugging, and deploying** real-world applications
+- 📦 Contributor to **npm packages** that simplify backend development
+- 🌍 Passionate about **clean code, performance, and great UX**
+
+---
 
 ### I am a passionate Full Stack developer
 #### Feel free to explore my portfolio: [rashedin.dev](https://www.rashedin.dev)
