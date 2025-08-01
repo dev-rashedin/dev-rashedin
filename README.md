@@ -31,32 +31,6 @@ Express.js, JWT, Mongoose, Prisma, Drizzle, Docker
 
 ---
 
-### I am a passionate Full Stack developer
-#### Feel free to explore my portfolio: [rashedin.dev](https://www.rashedin.dev)
-
-🚀 Full-stack JavaScript developer focused on building scalable, responsive, and user-centric web apps. Passionate about debugging, optimization, and clean code.
-
-I thrive in collaborative teams, actively use tools like Jira, and embrace open-source. My workflow blends technical precision with strong UX sensibility — always aiming for performance, maintainability, and delight.
-
-### 🔧 Tech Stack
-
-**Frontend:**  
- - HTML, CSS, Tailwind CSS, Material UI  
- - JavaScript, TypeScript  
- - React.js, Next.js, Redux Toolkit, Zustand
-
-**Backend:**  
- - Node.js, Express.js  
- - MongoDB, Mongoose, SQL  
- - Docker, Socket.IO, Nest.js
-
-**Tools & Platforms:**  
- - Unit Testing with Jest  
- - Git, GitHub, GitLab  
- - Vercel, Firebase, Firestore
-
----
-
 ## 📌 Featured Projects
 
 - **http-status-toolkit**  
