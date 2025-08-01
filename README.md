@@ -1,18 +1,33 @@
 ![I am a Full Stack JavaScript Developer](https://i.imgur.com/a8KjbkV.png)
 
-# 👋 Hi, I’m Rashedin Islam
+# 👋 Hi, I’m Rashedin Islam,
 
-### **I am a Full-Stack JavaScript Developer** — I build clean, scalable, and user-focused web applications using the modern JavaScript ecosystem.
+### A full-stack JavaScript developer turning ideas into scalable, responsive, and performance-driven web apps — where clean code meets great design.
 
----
 
 ## 🚀 About Me
 
-- 💼 I have nearly **1 year of hands-on experience** as a full-stack developer
+- 💼 I have over **1 year of industry experience** as a full-stack developer
 - 💡 Strong foundation in **MERN stack**, with expertise in both frontend and backend
 - 🔧 Experienced in **building, debugging, and deploying** real-world applications
 - 📦 Contributor to **npm packages** that simplify backend development
 - 🌍 Passionate about **clean code, performance, and great UX**
+
+---
+
+## 🛠️ Tech Stack
+
+**Core:**  
+HTML5, CSS3, JavaScript, TypeScript, Node, MongoDB, MySql, PostgreSql
+
+**Frontend Frameworks:**  
+React.js, Next.js, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase, Appwrite
+
+**Backend Frameworks**  
+Express.js, JWT, Mongoose, Prisma, Drizzle, Docker
+
+**Tools & Platforms:**  
+ Git, GitHub, Gitlab, Vercel, Swagger, Postman
 
 ---
 
@@ -42,26 +57,26 @@ I thrive in collaborative teams, actively use tools like Jira, and embrace open-
 
 ---
 
-🔭 I'm always looking to grow and improve. Currently exploring:
+## 📌 Featured Projects
 
- - Docker (advanced workflows)  
- - SQL & Nest.js (architecture and design patterns)  
- - Socket.IO (real-time apps in depth)
+- **http-status-toolkit**  
+  A lightweight, TypeScript-friendly alternative to http-status-codes with localization support.  
+  _npm: [http-status-toolkit](https://www.npmjs.com/package/http-status-toolkit)_
 
-### 🚀 Projects
+- **express-error-toolkit**  
+  A developer-focused Express.js error handler with color-coded logging and clean responses.  
+  _npm: [express-error-toolkit](https://www.npmjs.com/package/express-error-toolkit)_
 
-Here are some of the projects I've been working on:
+- **TechInsights**  
+  A full-featured MERN stack app for posting and managing tech news, with role-based access and JWT auth.
 
-
-- **[Tech Insights](https://tech-insights-d2159.web.app)**: A MERN Stack tech related news paper  website including admin dashboard.
-- **[ByteBlog](https://byteblog-da679.web.app)**: A MERN Stack blog website featurng latest technology specially web development.
-- **[Craft Canvas](https://a10-assignment-project.web.app)**: An art and craft website featuring a collection of paintings and drawings.
+---
 
 Check out my repositories for more projects and code samples!
 
 ### ✍️ I Love to Share What I Learn
 
-I enjoy documenting my learning journey, experiences, and technical insights through writing. Whether it's a deep dive into a concept or a quick tip I discovered, 
+> I enjoy documenting my learning journey, experiences, and technical insights through writing. Whether it's a deep dive into a concept or a quick tip I discovered, 
 I write to help others—and to reinforce my own understanding.
 
 📚 Read My Articles
@@ -74,13 +89,12 @@ I write to help others—and to reinforce my own understanding.
 
 I'm open to collaborating on exciting projects, especially those related to web development. If you have an idea or need help with a project, feel free to reach out!
 
-### 🤝 How to Reach Me
+## 📫 Let’s Connect
 
-- **Email**: [rashedinislam.06@gmail.com](mailto:rashedinislam.06@gmail.com)
-- **LinkedIn**: [linkedin.com/in/dev-rashedin](https://www.linkedin.com/in/dev-rashedin)  
-
-
- 
+- 🌐 [Portfolio](https://www.rashedin.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dev-rashedin)
+- 📓 [Dev.to](https://dev.to/dev-rashedin)
+- 💌 Email: rashedinislam.06@gmail.com
 
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px; margin-top: 15px;">
