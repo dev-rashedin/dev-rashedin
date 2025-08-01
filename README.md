@@ -7,27 +7,28 @@
 
 ## 🚀 About Me
 
-- 💼 I have over **1 year of industry experience** as a full-stack developer
-- 💡 Strong foundation in **MERN stack**, with expertise in both frontend and backend
-- 🔧 Experienced in **building, debugging, and deploying** real-world applications
-- 📦 Contributor to **npm packages** that simplify backend development
-- 🌍 Passionate about **clean code, performance, and great UX**
+- 💼 Over 1 year of professional experience building full-stack web applications  
+- 💡 Skilled in **JavaScript/TypeScript full-stack development**  
+- 🗄️ Worked with **MERN stack**, **PostgreSQL**, **MySQL**, **Prisma**, and **Drizzle**  
+- 🔧 Experienced in **architecting, debugging, and deploying** production-grade apps  
+- 📦 Maintainer of open-source **npm packages** focused on backend efficiency  
+- ✨ Dedicated to **crafting responsive, performant web applications** with great UX
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core:**  
-HTML5, CSS3, JavaScript, TypeScript, Node, MongoDB, MySql, PostgreSql
+**Core Technologies:**  
+  HTML5, CSS3, JavaScript (ES6+), TypeScript, Node.js, MongoDB, MySQL, PostgreSQL
 
-**Frontend Frameworks:**  
-React.js, Next.js, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase, Appwrite
+**Frontend Frameworks & Tools:**  
+- React.js, Next.js, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase, Appwrite
 
-**Backend Frameworks**  
-Express.js, JWT, Mongoose, Prisma, Drizzle, Docker
+**Backend Frameworks & Libraries:**  
+- Express.js, JWT (JSON Web Tokens), Mongoose, Prisma ORM, Drizzle ORM, Docker
 
 **Tools & Platforms:**  
- Git, GitHub, Gitlab, Vercel, Swagger, Postman
+- Git, GitHub, GitLab, Vercel, Swagger, Postman
 
 ---
 
