@@ -36,6 +36,12 @@
 
 ### 🛠 npm Packages
 
+- **[create-servest](https://www.npmjs.com/package/create-servest)**  
+  A backend project scaffolder for multiple frameworks, improve dx 100%
+  
+- **[servest](https://www.npmjs.com/package/servest)**  
+  Backend utility generator, user can add useful utility with just one command.
+
 - **[http-status-toolkit](https://www.npmjs.com/package/http-status-toolkit)**  
   A lightweight, TypeScript-friendly alternative to `http-status-codes`, with built-in localization support.
 
