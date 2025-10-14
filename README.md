@@ -52,9 +52,9 @@
 
 ### 🌐 Web Applications
 
-- **Suite Track** — A full-stack hotel management website featuring real-time search and filtering.  
-  Tech Stack: Next.js, Tailwind CSS, Auth.js, Mongoose  
-  Links: • [Live URL](https://suite-track.vercel.app) • [GitHub Link](https://github.com/dev-rashedin/SuiteTrack-Project)
+- **DevScribe AI** — A full-stack AI service provider specially for devlelpers and writers.  
+  Tech Stack: React.js, Node.js, Express.js, Mongoose, JWT, 
+  Links: • [Live URL](https://devscribe-ai.vercel.app) • [GitHub Link](https://github.com/dev-rashedin/devScribe-ai)
 
 - **Tech Insights** — A full-featured MERN app for tech news publishing. Includes role-based access, admin panel, and JWT auth.  
   Tech Stack: React, Express, MongoDB, Imagegur, Redux Toolkit  
