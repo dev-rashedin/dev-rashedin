@@ -2,13 +2,13 @@
 
 # 👋 Hi, I’m Rashedin Islam,
 
-### A full-stack JavaScript developer turning ideas into scalable, responsive, and performance-driven web apps — where clean code meets great design.
+### A full-stack Engineer turning ideas into scalable, responsive, and performance-driven web apps — where clean code meets great design.
 
 
 ## 🚀 About Me
 
 - 💼 Over 1 year of professional experience building full-stack web applications  
-- 💡 Skilled in **JavaScript/TypeScript full-stack development**  
+- 💡 Skilled in **JavaScript/TypeScript, Python, Golang full-stack development**  
 - 🗄️ Worked with **MERN stack**, **PostgreSQL**, **MySQL**, **Prisma**, and **Drizzle**  
 - 🔧 Experienced in **architecting, debugging, and deploying** production-grade apps  
 - 📦 Maintainer of open-source **npm packages** focused on backend efficiency  
@@ -19,13 +19,13 @@
 ## 🛠️ Tech Stack
 
 **Core Technologies:**  
-- HTML5, CSS3, JavaScript (ES6+), TypeScript, Node.js, MongoDB, MySQL, PostgreSQL
+- JavaScript (ES6+), TypeScript, Node.js, Python, Django, MongoDB, PostgreSQL, CI/CD
 
 **Frontend Frameworks & Tools:**  
 - React.js, Next.js, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase, Appwrite
 
 **Backend Frameworks & Libraries:**  
-- Express.js, JWT (JSON Web Tokens), Mongoose, Prisma ORM, Drizzle ORM, Docker
+- Express.js, Django, Fastify, JWT, Mongoose, Supabase, Prisma, Docker, Microservices
 
 **Tools & Platforms:**  
 - Git, GitHub, GitLab, Vercel, Swagger, Postman
