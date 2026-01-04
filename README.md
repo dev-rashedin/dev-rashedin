@@ -22,10 +22,10 @@
 - JavaScript (ES6+), TypeScript, Node.js, Python, Golang, MongoDB, PostgreSQL, CI/CD
 
 **Frontend Frameworks & Tools:**  
-- React.js, Next.js, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase
+- React.js, Next.js, React Native, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase
 
 **Backend Frameworks & Libraries:**  
-- Express.js, JWT, Mongoose, Supabase, Prisma, Docker, Microservices
+- Express.js, Nest.js, JWT, Mongoose, Prisma, Docker, Microservices, Supabase, Neon
 
 **Tools & Platforms:**  
 - Git, GitHub, GitLab, Vercel, Swagger, Postman
