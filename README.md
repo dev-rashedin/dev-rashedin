@@ -25,7 +25,7 @@
 - React.js, Next.js, React Native, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase
 
 **Backend Frameworks & Libraries:**  
-- Express.js, Nest.js, JWT, Mongoose, Prisma, Docker, Microservices, Supabase, Neon
+- Express.js, Nest.js, JWT, Mongoose, Prisma, Docker, Microservices, Redis, Supabase, Neon
 
 **Tools & Platforms:**  
 - Git, GitHub, GitLab, Vercel, Swagger, Postman
