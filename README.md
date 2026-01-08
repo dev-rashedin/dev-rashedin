@@ -99,9 +99,7 @@ I'm open to collaborating on exciting projects, especially those related to web 
     </a>
 </div> -->
 
+
 <p>
-  <img src="https://yourinsights.vercel.app/api/insight?username=dev-rashedin" alt="GitHub Insights" />
-</p>
-<p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=dev-rashedin&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
