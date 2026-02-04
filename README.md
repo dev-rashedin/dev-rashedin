@@ -2,12 +2,12 @@
 
 # 👋 Hi, I’m Rashedin Islam,
 
-### A full-stack Engineer turning ideas into scalable, responsive, and performance-driven web apps — where clean code meets great design.
+### A full-stack Engineer turning ideas into scalable, responsive, and performance-driven web and mobile apps — where clean code meets great design.
 
 
 ## 🚀 About Me
 
-- 💼 Over 1 year of professional experience building full-stack web applications  
+- 💼 Over 2 years of professional experience building full-stack web and mobile applications  
 - 💡 Skilled in **JavaScript/TypeScript, Python, Golang full-stack development**  
 - 🗄️ Worked with **MERN stack**, **PostgreSQL**, **MySQL**, **Prisma**, and **Drizzle**  
 - 🔧 Experienced in **architecting, debugging, and deploying** production-grade apps  
