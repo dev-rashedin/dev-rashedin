@@ -27,6 +27,10 @@
 **Backend Frameworks & Libraries:**  
 - Express.js, Nest.js, JWT, Mongoose, Prisma, Docker, Microservices, Redis, Supabase, Neon
 
+**AI/ML:**
+- LangChain, LangGraph, RAG Pipelines, Embeddings & Vector Search, LLM APIs, Prompt Engineering
+
+
 **Tools & Platforms:**  
 - Git, GitHub, GitLab, Vercel, Swagger, Postman
 
