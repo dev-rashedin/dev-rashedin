@@ -31,9 +31,6 @@
 - LangChain, LangGraph, RAG Pipelines, Embeddings & Vector Search, LLM APIs, Prompt Engineering
 
 
-**Tools & Platforms:**  
-- Git, GitHub, GitLab, Vercel, Swagger, Postman
-
 ---
 
 ## 📌 Featured Projects
