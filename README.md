@@ -102,5 +102,5 @@ I'm open to collaborating on exciting projects, especially those related to web 
 
 
 <p>
-  <img src="https://yourinsights.vercel.app/api/insight?username=dev-rashedin&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+ <img src="https://yourinsights.vercel.app/api/insight?username=dev-rashedin&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=HTML%2CCSS%2CSCSS%2CMakefile%2Cejs%2Cbicep" alt="dev-rashedin's GitHub Insights" />
 </p>
