@@ -19,13 +19,13 @@
 ## 🛠️ Tech Stack
 
 **Core Technologies:**  
-- JavaScript (ES6+), TypeScript, Node.js, Python, Golang, MongoDB, PostgreSQL, CI/CD
+- JavaScript (ES6+), TypeScript, Node.js, Python, PHP, Golang, MongoDB, PostgreSQL, CI/CD
 
 **Frontend Frameworks & Tools:**  
 - React.js, Next.js, React Native, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase
 
 **Backend Frameworks & Libraries:**  
-- Express.js, FastAPI, JWT, Mongoose, Prisma, Docker, Microservices, Redis, Supabase, Neon
+- Express.js, FastAPI, Laravel, JWT, Mongoose, Prisma, Docker, Microservices, Redis, Supabase, Neon
 
 **AI/ML:**
 - LangChain, LangGraph, RAG Pipelines, Embeddings & Vector Search, LLM APIs, Prompt Engineering
