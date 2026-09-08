@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 **Core Technologies:**  
-- JavaScript (ES6+), TypeScript, Node.js, Python, Golang, MongoDB, PostgreSQL, CI/CD
+- JavaScript (ES6+), TypeScript, Node.js, Python, Golang (basic), MongoDB, PostgreSQL, CI/CD
 
 **Frontend Frameworks & Tools:**  
 - React.js, Next.js, React Native, Tailwind CSS, Material UI, Redux Toolkit, Zustand, Firebase
