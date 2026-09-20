@@ -1,8 +1,8 @@
-![I am a Full Stack JavaScript Developer](https://i.imgur.com/a8KjbkV.png)
+![I am a Full Stack Developer](https://i.imgur.com/a8KjbkV.png)
 
 # 👋 Hi, I’m Rashedin Islam,
 
-### A full-stack Engineer turning ideas into scalable, responsive, and performance-driven web and mobile apps — where clean code meets great design.
+### A full-stack Developer turning ideas into scalable, responsive, and performance-driven web and mobile apps — where clean code meets great design.
 
 
 ## 🚀 About Me
