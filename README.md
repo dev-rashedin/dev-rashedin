@@ -1,8 +1,8 @@
 ![I am a Full Stack Developer](https://i.imgur.com/a8KjbkV.png)
 
-# 👋 Hi, I’m Rashedin Islam,
+# 👋 Hi, I’m Rashedin,
 
-### A full-stack Developer turning ideas into scalable, responsive, and performance-driven web and mobile apps — where clean code meets great design.
+### An AI-focused full-stack Developer turning ideas into scalable, responsive, and performance-driven web and mobile apps — where clean code meets great design.
 
 
 ## 🚀 About Me
